@@ -10,8 +10,8 @@ public class HashMapDemo {
         //Hashmaps are unordered maps just like the hashset
         map.put("India" ,1);
         map.put("US", 2);
-        map.put("Srilanka", 3);
-        map.put("India", 3);
+        map.put("Sri Lanka", 3);
+        map.put("Australia", 3);
         System.out.println(map);
 
         //search
