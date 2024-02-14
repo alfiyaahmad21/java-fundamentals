@@ -9,7 +9,7 @@ public class HashMapDemo {
         // time the code will update with the new value.
         //Hashmaps are unordered maps just like the hashset
         map.put("India" ,1);
-        map.put("US", 2);
+        map.put("USA", 2);
         map.put("Sri Lanka", 3);
         map.put("Australia", 3);
         System.out.println(map);
